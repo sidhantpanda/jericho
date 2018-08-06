@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/sidhantpanda/jericho/issues"
   },
-  "homepage": "https://github.com/sidhantpanda/jericho#readme"
+  "homepage": "https://github.com/sidhantpanda/jericho#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "jsonfile": "^4.0.0",
+    "request": "^2.87.0",
+    "uuid": "^3.3.2"
+  }
 }
